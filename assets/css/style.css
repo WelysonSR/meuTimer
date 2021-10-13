@@ -4,3 +4,9 @@ body{
 .card{
     margin-top: 3em;
 }
+.relogio{
+    font-size: 5em;
+}
+.paused{
+    color: red;
+}
